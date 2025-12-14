@@ -58,7 +58,7 @@ ResearchMind Pro is an intelligent research assistant that learns optimal paper 
 
 ```bash
 # Clone repository
-git clone https://github.com/tanv99/research-assistant-rl.git
+git clone https://github.com/tanv99/ResearchMindPro.git
 cd research-assistant-rl
 
 # Install dependencies
