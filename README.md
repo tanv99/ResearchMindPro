@@ -205,35 +205,6 @@ NVIDIA_CHAT_MODEL=meta/llama-3.1-8b-instruct
 MAX_LOCAL_PAPERS=60
 ```
 
-### Hyperparameters
-
-```python
-# Q-Learning
-alpha = 0.1        # Learning rate
-gamma = 0.95       # Discount factor
-epsilon = 0.2      # Exploration rate
-
-# UCB
-c = 2.0           # Exploration parameter
-
-# Intrinsic Motivation
-curiosity_bonus = 0.5
-```
-
-## Usage Examples
-
-### CLI Mode (Training)
-
-```bash
-# Run full RL training pipeline
-python main.py
-
-# Individual components
-python experiments/run_experiments.py     # Training only
-python experiments/analyze_results.py      # Visualization
-python experiments/validation.py           # Statistics
-```
-
 ### Web Interface Mode
 
 ```bash
