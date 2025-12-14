@@ -9,7 +9,7 @@ An Agentic Research Assistant Using Reinforcement Learning, RAG, and Citation Ne
 
 ResearchMind Pro is an intelligent research assistant that learns optimal paper discovery strategies through multi-agent reinforcement learning. Unlike traditional keyword search tools, the system learns from experience and adapts its behavior over time.
 
-Video Link:[Demo](https://drive.google.com/file/d/1cG4iWDPtj9s4Ffov2BrEvI9fO7W-qFOE/view?usp=drive_link)
+Video Link: [Demo](https://drive.google.com/file/d/1cG4iWDPtj9s4Ffov2BrEvI9fO7W-qFOE/view?usp=drive_link)
 
 **Key Capabilities:**
 - Learns optimal query formulation strategies (broad/specific/narrow)
