@@ -1,0 +1,456 @@
+{
+  "title": "The LHCb Detector at the LHC",
+  "abstract": "The LHCb experiment is dedicated to precision measurements of CP violation and rare decays of B hadrons at the Large Hadron Collider (LHC) at CERN (Geneva). The initial&#13;\\nconfiguration and expected performance of the detector and associated systems, as established by test beam measurements and simulation studies, is described.",
+  "year": 2008,
+  "citationCount": 1939,
+  "authors": [
+    {
+      "name": "The LHCb collaboration"
+    },
+    {
+      "name": "A. A. Alves"
+    },
+    {
+      "name": "L.Md.A. Filho"
+    },
+    {
+      "name": "A.F. Barbosa"
+    },
+    {
+      "name": "I. Bediaga"
+    },
+    {
+      "name": "G. Cernicchiaro"
+    },
+    {
+      "name": "Gabriel Guerrer"
+    },
+    {
+      "name": "H.P. Lima"
+    },
+    {
+      "name": "A.A. Machado"
+    },
+    {
+      "name": "J. Magnin"
+    },
+    {
+      "name": "F. Marujo da Silva"
+    },
+    {
+      "name": "J M de Miranda"
+    },
+    {
+      "name": "A.C. dos Reis"
+    },
+    {
+      "name": "Allan O. Santos"
+    },
+    {
+      "name": "Aline Martins de Toledo"
+    },
+    {
+      "name": "K. Carvalho Akiba"
+    },
+    {
+      "name": "S. Amato"
+    },
+    {
+      "name": "B. de Paula"
+    },
+    {
+      "name": "L. De Paula"
+    },
+    {
+      "name": "T.Da Silva"
+    },
+    {
+      "name": "M. Gandelman"
+    },
+    {
+      "name": "J. H. Lopes"
+    },
+    {
+      "name": "B. Mar\u00e9chal"
+    },
+    {
+      "name": "D. Moraes"
+    },
+    {
+      "name": "E. Polycarpo"
+    },
+    {
+      "name": "F. Ferreira Rodrigues"
+    },
+    {
+      "name": "J. Ballansat"
+    },
+    {
+      "name": "Yan Bastian"
+    },
+    {
+      "name": "D. Boget"
+    },
+    {
+      "name": "I. De Bonis"
+    },
+    {
+      "name": "V. Coco"
+    },
+    {
+      "name": "P Y David"
+    },
+    {
+      "name": "D. D\u00e9camp"
+    },
+    {
+      "name": "P. Delebecque"
+    },
+    {
+      "name": "C. Drancourt"
+    },
+    {
+      "name": "N. Dumont-Dayot"
+    },
+    {
+      "name": "C. Girard"
+    },
+    {
+      "name": "B. Lieunard"
+    },
+    {
+      "name": "M.-N. Minard"
+    },
+    {
+      "name": "B. Pietrzyk"
+    },
+    {
+      "name": "T. Rambure"
+    },
+    {
+      "name": "G. Rospabe"
+    },
+    {
+      "name": "S. T\u2019Jampens"
+    },
+    {
+      "name": "Z. Ajaltouni"
+    },
+    {
+      "name": "G. Bohner"
+    },
+    {
+      "name": "R. Bonnefoy"
+    },
+    {
+      "name": "David Borr\u00e1s"
+    },
+    {
+      "name": "C. C\u00e2rloganu"
+    },
+    {
+      "name": "H. Chanal"
+    },
+    {
+      "name": "E. Conte"
+    },
+    {
+      "name": "R. Cornat"
+    },
+    {
+      "name": "M. Crouau"
+    },
+    {
+      "name": "Erick Delage"
+    },
+    {
+      "name": "O. Deschamps"
+    },
+    {
+      "name": "P. Henrard"
+    },
+    {
+      "name": "Philippe Jacquet"
+    },
+    {
+      "name": "C. Lacan"
+    },
+    {
+      "name": "Julien Laubser"
+    },
+    {
+      "name": "J. Lecoq"
+    },
+    {
+      "name": "R. Lef\u00e8vre"
+    },
+    {
+      "name": "M. Magne"
+    },
+    {
+      "name": "M Martemiyanov"
+    },
+    {
+      "name": "M-L Mercier"
+    },
+    {
+      "name": "S. Monteil"
+    },
+    {
+      "name": "V. Niess"
+    },
+    {
+      "name": "P. Perret"
+    },
+    {
+      "name": "G. Reinmuth"
+    },
+    {
+      "name": "A. Robert"
+    },
+    {
+      "name": "S. Suchorski"
+    },
+    {
+      "name": "K. A. Arnaud"
+    },
+    {
+      "name": "E. Aslanides"
+    },
+    {
+      "name": "J Babel"
+    },
+    {
+      "name": "C. Benchouk"
+    },
+    {
+      "name": "J-P Cachemiche"
+    },
+    {
+      "name": "J. Cogan"
+    },
+    {
+      "name": "F. Derue"
+    },
+    {
+      "name": "B. Dinkespiler"
+    },
+    {
+      "name": "P.Y. Duval"
+    },
+    {
+      "name": "V. Garonne"
+    },
+    {
+      "name": "S. Favard"
+    },
+    {
+      "name": "R. Le Gac"
+    },
+    {
+      "name": "Francisco de Le\u00f3n"
+    },
+    {
+      "name": "O. Leroy"
+    },
+    {
+      "name": "P.L. Liotard"
+    },
+    {
+      "name": "F. Mar\u00edn"
+    },
+    {
+      "name": "M. M\u00e9nouni"
+    },
+    {
+      "name": "P Ollive"
+    },
+    {
+      "name": "S. Poss"
+    },
+    {
+      "name": "Anne Roche"
+    },
+    {
+      "name": "M. Sapunov"
+    },
+    {
+      "name": "L. Tocco"
+    },
+    {
+      "name": "B. Viaud"
+    },
+    {
+      "name": "A. Tsaregorodtsev"
+    },
+    {
+      "name": "Y. Amhis"
+    },
+    {
+      "name": "Guy Barrand"
+    },
+    {
+      "name": "S. Barsuk"
+    },
+    {
+      "name": "C. Beigbeder"
+    },
+    {
+      "name": "R. Beneyton"
+    },
+    {
+      "name": "D. Breton"
+    },
+    {
+      "name": "O. Callot"
+    }
+  ],
+  "url": "https://openalex.org/W2109896109",
+  "references": [
+    "https://openalex.org/W2170991331",
+    "https://openalex.org/W2030151569",
+    "https://openalex.org/W2003441198",
+    "https://openalex.org/W2093118616",
+    "https://openalex.org/W2021626703",
+    "https://openalex.org/W1991305234",
+    "https://openalex.org/W2132965186",
+    "https://openalex.org/W1989494276",
+    "https://openalex.org/W2055254841",
+    "https://openalex.org/W2040794828",
+    "https://openalex.org/W2164723815",
+    "https://openalex.org/W1965905193",
+    "https://openalex.org/W2008102278",
+    "https://openalex.org/W2146986019",
+    "https://openalex.org/W2099098155",
+    "https://openalex.org/W1980789676",
+    "https://openalex.org/W1970599780",
+    "https://openalex.org/W2060981734",
+    "https://openalex.org/W2062129714",
+    "https://openalex.org/W1967001555",
+    "https://openalex.org/W2116521478",
+    "https://openalex.org/W2009561975",
+    "https://openalex.org/W1977593536",
+    "https://openalex.org/W2177261896",
+    "https://openalex.org/W4244854821",
+    "https://openalex.org/W2038873558",
+    "https://openalex.org/W2133068132",
+    "https://openalex.org/W1998327621",
+    "https://openalex.org/W2085384010",
+    "https://openalex.org/W2041442030",
+    "https://openalex.org/W2092586905",
+    "https://openalex.org/W2089432202",
+    "https://openalex.org/W2079871026",
+    "https://openalex.org/W2063674612",
+    "https://openalex.org/W2046184072",
+    "https://openalex.org/W2147108928",
+    "https://openalex.org/W2047261197",
+    "https://openalex.org/W2070019775",
+    "https://openalex.org/W2168031085",
+    "https://openalex.org/W2099604741",
+    "https://openalex.org/W2154524441",
+    "https://openalex.org/W2029164097",
+    "https://openalex.org/W2023241819",
+    "https://openalex.org/W1991331819",
+    "https://openalex.org/W2034838801",
+    "https://openalex.org/W1986856834",
+    "https://openalex.org/W2141697412",
+    "https://openalex.org/W2064326071",
+    "https://openalex.org/W2149990727",
+    "https://openalex.org/W2092438124",
+    "https://openalex.org/W2131108451",
+    "https://openalex.org/W2180919697",
+    "https://openalex.org/W2135752726",
+    "https://openalex.org/W2539515235",
+    "https://openalex.org/W2033726675",
+    "https://openalex.org/W2094461321",
+    "https://openalex.org/W2075111311",
+    "https://openalex.org/W2733507690",
+    "https://openalex.org/W1426007663",
+    "https://openalex.org/W2515397162",
+    "https://openalex.org/W2732161242",
+    "https://openalex.org/W2123489834",
+    "https://openalex.org/W191841173",
+    "https://openalex.org/W2727238065",
+    "https://openalex.org/W2150875834",
+    "https://openalex.org/W1501793949",
+    "https://openalex.org/W2323531263",
+    "https://openalex.org/W2146773241",
+    "https://openalex.org/W1960824651",
+    "https://openalex.org/W566883937",
+    "https://openalex.org/W2110964743",
+    "https://openalex.org/W2464741181",
+    "https://openalex.org/W2331843633",
+    "https://openalex.org/W140131697",
+    "https://openalex.org/W2731630906",
+    "https://openalex.org/W2595319906",
+    "https://openalex.org/W3025496431",
+    "https://openalex.org/W2299418620",
+    "https://openalex.org/W1511916811",
+    "https://openalex.org/W2341059081",
+    "https://openalex.org/W2091840068",
+    "https://openalex.org/W1606111205",
+    "https://openalex.org/W2950244449",
+    "https://openalex.org/W2027141304",
+    "https://openalex.org/W2348123998",
+    "https://openalex.org/W2286449574",
+    "https://openalex.org/W2617680423",
+    "https://openalex.org/W1541625499",
+    "https://openalex.org/W2098198060",
+    "https://openalex.org/W1548564383",
+    "https://openalex.org/W256085187",
+    "https://openalex.org/W98663998",
+    "https://openalex.org/W2613144881",
+    "https://openalex.org/W1924107936",
+    "https://openalex.org/W2595024754",
+    "https://openalex.org/W2242618040",
+    "https://openalex.org/W2187524493",
+    "https://openalex.org/W2183385943",
+    "https://openalex.org/W83826217",
+    "https://openalex.org/W2155219151",
+    "https://openalex.org/W1860297630",
+    "https://openalex.org/W37863150",
+    "https://openalex.org/W2624250651",
+    "https://openalex.org/W2741254283",
+    "https://openalex.org/W2615395835",
+    "https://openalex.org/W2604071167",
+    "https://openalex.org/W2184047667",
+    "https://openalex.org/W755742422",
+    "https://openalex.org/W2610640210",
+    "https://openalex.org/W1588875751",
+    "https://openalex.org/W2846752964",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W2052501853",
+    "https://openalex.org/W2187212529",
+    "https://openalex.org/W2186606970",
+    "https://openalex.org/W2599252441",
+    "https://openalex.org/W2269876605",
+    "https://openalex.org/W2113900111",
+    "https://openalex.org/W2884457839",
+    "https://openalex.org/W2186823304",
+    "https://openalex.org/W2060871382",
+    "https://openalex.org/W2239348000",
+    "https://openalex.org/W3162495153",
+    "https://openalex.org/W2123949314",
+    "https://openalex.org/W2574153812",
+    "https://openalex.org/W2727311932",
+    "https://openalex.org/W2301626578",
+    "https://openalex.org/W1547320531",
+    "https://openalex.org/W2418744519",
+    "https://openalex.org/W72709647",
+    "https://openalex.org/W2594861827",
+    "https://openalex.org/W2596366238",
+    "https://openalex.org/W2615023963",
+    "https://openalex.org/W1551048750",
+    "https://openalex.org/W2419186285",
+    "https://openalex.org/W2618509180",
+    "https://openalex.org/W141996279",
+    "https://openalex.org/W2288280154",
+    "https://openalex.org/W2614574786",
+    "https://openalex.org/W783380691",
+    "https://openalex.org/W2751874615",
+    "https://openalex.org/W2597979034"
+  ],
+  "source": "openalex",
+  "paper_id": "4988ba8e408fcbc7b4820ba7cd7307c6",
+  "retrieved_by_query": "transformer attention mechanism"
+}

@@ -1,0 +1,84 @@
+{
+  "title": "A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+  "abstract": "In December 2019, a cluster of patients with pneumonia of unknown cause was linked to a seafood wholesale market in Wuhan, China. A previously unknown betacoronavirus was discovered through the use of unbiased sequencing in samples from patients with pneumonia. Human airway epithelial cells were used to isolate a novel coronavirus, named 2019-nCoV, which formed a clade within the subgenus sarbecovirus, Orthocoronavirinae subfamily. Different from both MERS-CoV and SARS-CoV, 2019-nCoV is the seventh member of the family of coronaviruses that infect humans. Enhanced surveillance and further investigation are ongoing. (Funded by the National Key Research and Development Program of China and the National Major Project for Control and Prevention of Infectious Disease in China.)",
+  "year": 2020,
+  "citationCount": 29844,
+  "authors": [
+    {
+      "name": "Na Zhu"
+    },
+    {
+      "name": "Dingyu Zhang"
+    },
+    {
+      "name": "Wen\u2010Ching Wang"
+    },
+    {
+      "name": "Xingwang Li"
+    },
+    {
+      "name": "Bo Yang"
+    },
+    {
+      "name": "Jingdong Song"
+    },
+    {
+      "name": "Xiang Zhao"
+    },
+    {
+      "name": "Baoying Huang"
+    },
+    {
+      "name": "Weifeng Shi"
+    },
+    {
+      "name": "Roujian Lu"
+    },
+    {
+      "name": "Peihua Niu"
+    },
+    {
+      "name": "Faxian Zhan"
+    },
+    {
+      "name": "Xuejun Ma"
+    },
+    {
+      "name": "Dayan Wang"
+    },
+    {
+      "name": "Wenbo Xu"
+    },
+    {
+      "name": "Guizhen Wu"
+    },
+    {
+      "name": "George F. Gao"
+    },
+    {
+      "name": "Wenjie Tan"
+    }
+  ],
+  "url": "https://openalex.org/W3001897055",
+  "references": [
+    "https://openalex.org/W2792024998",
+    "https://openalex.org/W10914455",
+    "https://openalex.org/W2306794997",
+    "https://openalex.org/W2903899730",
+    "https://openalex.org/W2141877163",
+    "https://openalex.org/W2104548316",
+    "https://openalex.org/W2132260239",
+    "https://openalex.org/W2166867592",
+    "https://openalex.org/W1909499787",
+    "https://openalex.org/W2257005270",
+    "https://openalex.org/W2167391272",
+    "https://openalex.org/W3017468735",
+    "https://openalex.org/W2997069256",
+    "https://openalex.org/W2955025503",
+    "https://openalex.org/W3027518954",
+    "https://openalex.org/W4211029266"
+  ],
+  "source": "openalex",
+  "paper_id": "e8c6e703e242fdc01338af73b12a1a4f",
+  "retrieved_by_query": "transformer attention mechanism"
+}

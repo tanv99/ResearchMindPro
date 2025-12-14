@@ -1,0 +1,33 @@
+{
+  "title": "Self-Consistent Equations Including Exchange and Correlation Effects",
+  "abstract": "From a theory of Hohenberg and Kohn, approximation methods for treating an inhomogeneous system of interacting electrons are developed. These methods are exact for systems of slowly varying or high density. For the ground state, they lead to self-consistent equations analogous to the Hartree and Hartree-Fock equations, respectively. In these equations the exchange and correlation portions of the chemical potential of a uniform electron gas appear as additional effective potentials. (The exchange portion of our effective potential differs from that due to Slater by a factor of $\\frac{2}{3}$.) Electronic systems at finite temperatures and in magnetic fields are also treated by similar methods. An appendix deals with a further correction for systems with short-wavelength density oscillations.",
+  "year": 1965,
+  "citationCount": 60945,
+  "authors": [
+    {
+      "name": "W. Kohn"
+    },
+    {
+      "name": "L. J. Sham"
+    }
+  ],
+  "url": "https://openalex.org/W2230728100",
+  "references": [
+    "https://openalex.org/W2146747898",
+    "https://openalex.org/W2079843014",
+    "https://openalex.org/W2619609791",
+    "https://openalex.org/W2030976617",
+    "https://openalex.org/W2057236759",
+    "https://openalex.org/W2001769254",
+    "https://openalex.org/W2032420941",
+    "https://openalex.org/W2065072405",
+    "https://openalex.org/W1965879706",
+    "https://openalex.org/W2092130730",
+    "https://openalex.org/W2050729144",
+    "https://openalex.org/W2089419485",
+    "https://openalex.org/W2320789361"
+  ],
+  "source": "openalex",
+  "paper_id": "0ed8099ddfb5919d5cb923fe441e4ed1",
+  "retrieved_by_query": "transformer attention mechanism"
+}

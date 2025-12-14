@@ -1,0 +1,57 @@
+{
+  "title": "TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation",
+  "abstract": "Medical image segmentation is an essential prerequisite for developing healthcare systems, especially for disease diagnosis and treatment planning. On various medical image segmentation tasks, the u-shaped architecture, also known as U-Net, has become the de-facto standard and achieved tremendous success. However, due to the intrinsic locality of convolution operations, U-Net generally demonstrates limitations in explicitly modeling long-range dependency. Transformers, designed for sequence-to-sequence prediction, have emerged as alternative architectures with innate global self-attention mechanisms, but can result in limited localization abilities due to insufficient low-level details. In this paper, we propose TransUNet, which merits both Transformers and U-Net, as a strong alternative for medical image segmentation. On one hand, the Transformer encodes tokenized image patches from a convolution neural network (CNN) feature map as the input sequence for extracting global contexts. On the other hand, the decoder upsamples the encoded features which are then combined with the high-resolution CNN feature maps to enable precise localization. We argue that Transformers can serve as strong encoders for medical image segmentation tasks, with the combination of U-Net to enhance finer details by recovering localized spatial information. TransUNet achieves superior performances to various competing methods on different medical applications including multi-organ segmentation and cardiac segmentation. Code and models are available at https://github.com/Beckschen/TransUNet.",
+  "year": 2021,
+  "citationCount": 3691,
+  "authors": [
+    {
+      "name": "Jieneng Chen"
+    },
+    {
+      "name": "Yongyi Lu"
+    },
+    {
+      "name": "Qihang Yu"
+    },
+    {
+      "name": "Xiangde Luo"
+    },
+    {
+      "name": "Ehsan Adeli"
+    },
+    {
+      "name": "Yan Wang"
+    },
+    {
+      "name": "Le L\u00fc"
+    },
+    {
+      "name": "Alan Yuille"
+    },
+    {
+      "name": "Yuyin Zhou"
+    }
+  ],
+  "url": "https://openalex.org/W3127751679",
+  "references": [
+    "https://openalex.org/W2798122215",
+    "https://openalex.org/W2940744433",
+    "https://openalex.org/W3026315751",
+    "https://openalex.org/W2963341956",
+    "https://openalex.org/W2771252144",
+    "https://openalex.org/W2432481613",
+    "https://openalex.org/W2950739196",
+    "https://openalex.org/W2888358068",
+    "https://openalex.org/W3170841864",
+    "https://openalex.org/W1903029394",
+    "https://openalex.org/W2963091558",
+    "https://openalex.org/W2952178620",
+    "https://openalex.org/W2194775991",
+    "https://openalex.org/W2964227007",
+    "https://openalex.org/W3119786062",
+    "https://openalex.org/W1901129140"
+  ],
+  "source": "openalex",
+  "paper_id": "dc2efc1763be686e36be3bd8dc74a68b",
+  "retrieved_by_query": "transformer attention mechanism"
+}

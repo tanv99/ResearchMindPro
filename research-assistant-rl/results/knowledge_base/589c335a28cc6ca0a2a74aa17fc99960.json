@@ -1,0 +1,51 @@
+{
+  "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+  "abstract": "Point cloud is an important type of geometric data structure. Due to its irregular format, most researchers transform such data to regular 3D voxel grids or collections of images. This, however, renders data unnecessarily voluminous and causes issues. In this paper, we design a novel type of neural network that directly consumes point clouds and well respects the permutation invariance of points in the input. Our network, named PointNet, provides a unified architecture for applications ranging from object classification, part segmentation, to scene semantic parsing. Though simple, PointNet is highly efficient and effective. Empirically, it shows strong performance on par or even better than state of the art. Theoretically, we provide analysis towards understanding of what the network has learnt and why the network is robust with respect to input perturbation and corruption.",
+  "year": 2016,
+  "citationCount": 2879,
+  "authors": [
+    {
+      "name": "Charles R. Qi"
+    },
+    {
+      "name": "Hao Su"
+    },
+    {
+      "name": "Kaichun Mo"
+    },
+    {
+      "name": "Leonidas Guibas"
+    }
+  ],
+  "url": "https://openalex.org/W2950642167",
+  "references": [
+    "https://openalex.org/W2091791686",
+    "https://openalex.org/W2211722331",
+    "https://openalex.org/W2098764590",
+    "https://openalex.org/W2271840356",
+    "https://openalex.org/W2293349265",
+    "https://openalex.org/W2099606917",
+    "https://openalex.org/W2112796928",
+    "https://openalex.org/W2394951287",
+    "https://openalex.org/W1955462214",
+    "https://openalex.org/W2553307952",
+    "https://openalex.org/W2187089797",
+    "https://openalex.org/W2156163116",
+    "https://openalex.org/W1662382123",
+    "https://openalex.org/W2254644702",
+    "https://openalex.org/W2240571584",
+    "https://openalex.org/W2007206727",
+    "https://openalex.org/W2160821342",
+    "https://openalex.org/W1561952261",
+    "https://openalex.org/W603908379",
+    "https://openalex.org/W2460657278",
+    "https://openalex.org/W2021122545",
+    "https://openalex.org/W2173183968",
+    "https://openalex.org/W1920022804",
+    "https://openalex.org/W2100657858",
+    "https://openalex.org/W2952789225"
+  ],
+  "source": "openalex",
+  "paper_id": "589c335a28cc6ca0a2a74aa17fc99960",
+  "retrieved_by_query": "transformer attention mechanism"
+}

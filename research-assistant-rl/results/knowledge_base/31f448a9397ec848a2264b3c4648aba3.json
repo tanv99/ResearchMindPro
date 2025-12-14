@@ -1,0 +1,85 @@
+{
+  "title": "Machine learning and deep learning",
+  "abstract": "No abstract available",
+  "year": 2021,
+  "citationCount": 2113,
+  "authors": [
+    {
+      "name": "Christian Janiesch"
+    },
+    {
+      "name": "Patrick Zschech"
+    },
+    {
+      "name": "Kai Heinrich"
+    },
+    {
+      "name": "Christian Janiesch"
+    },
+    {
+      "name": "Patrick Zschech"
+    },
+    {
+      "name": "Kai Heinrich"
+    }
+  ],
+  "url": "https://openalex.org/W3153990350",
+  "references": [
+    "https://openalex.org/W2891503716",
+    "https://openalex.org/W2915015079",
+    "https://openalex.org/W2964716450",
+    "https://openalex.org/W1506806321",
+    "https://openalex.org/W2106577732",
+    "https://openalex.org/W2161969291",
+    "https://openalex.org/W2059111627",
+    "https://openalex.org/W2798302089",
+    "https://openalex.org/W3000062802",
+    "https://openalex.org/W2802955324",
+    "https://openalex.org/W2099419573",
+    "https://openalex.org/W1565746575",
+    "https://openalex.org/W6730267373",
+    "https://openalex.org/W822801274",
+    "https://openalex.org/W2981207549",
+    "https://openalex.org/W2269742369",
+    "https://openalex.org/W3025420269",
+    "https://openalex.org/W3095865939",
+    "https://openalex.org/W3118496513",
+    "https://openalex.org/W2751039952",
+    "https://openalex.org/W2900453322",
+    "https://openalex.org/W1901616594",
+    "https://openalex.org/W2096352448",
+    "https://openalex.org/W2953189907",
+    "https://openalex.org/W2919115771",
+    "https://openalex.org/W4236093597",
+    "https://openalex.org/W4212902066",
+    "https://openalex.org/W2151103935",
+    "https://openalex.org/W2963428668",
+    "https://openalex.org/W2963095307",
+    "https://openalex.org/W2921353139",
+    "https://openalex.org/W2585169518",
+    "https://openalex.org/W2995871253",
+    "https://openalex.org/W2034059032",
+    "https://openalex.org/W2892341857",
+    "https://openalex.org/W2895991254",
+    "https://openalex.org/W2945976633",
+    "https://openalex.org/W1978394996",
+    "https://openalex.org/W2076063813",
+    "https://openalex.org/W2251410821",
+    "https://openalex.org/W3005351117",
+    "https://openalex.org/W3150796314",
+    "https://openalex.org/W3094605956",
+    "https://openalex.org/W2902907165",
+    "https://openalex.org/W6750380350",
+    "https://openalex.org/W2164598857",
+    "https://openalex.org/W2999321020",
+    "https://openalex.org/W3120261410",
+    "https://openalex.org/W2989851933",
+    "https://openalex.org/W4255466416",
+    "https://openalex.org/W2888794009",
+    "https://openalex.org/W2884001105",
+    "https://openalex.org/W2800722845"
+  ],
+  "source": "openalex",
+  "paper_id": "31f448a9397ec848a2264b3c4648aba3",
+  "retrieved_by_query": "transformer attention mechanism"
+}

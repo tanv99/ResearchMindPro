@@ -1,0 +1,68 @@
+{
+  "title": "Colorimetric Method for Determination of Sugars and Related Substances",
+  "abstract": "ADVERTISEMENT RETURN TO ISSUEPREVArticleNEXTColorimetric Method for Determination of Sugars and Related SubstancesMichel. DuBois, K. A. Gilles, J. K. Hamilton, P. A. Rebers, and Fred. SmithCite this: Anal. Chem. 1956, 28, 3, 350\u2013356Publication Date (Print):March 1, 1956Publication History Published online1 May 2002Published inissue 1 March 1956https://pubs.acs.org/doi/10.1021/ac60111a017https://doi.org/10.1021/ac60111a017research-articleACS PublicationsRequest reuse permissionsArticle Views60836Altmetric-Citations37027LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated. Share Add toView InAdd Full Text with ReferenceAdd Description ExportRISCitationCitation and abstractCitation and referencesMore Options Share onFacebookTwitterWechatLinked InRedditEmail Other access optionsGet e-Alertsclose Get e-Alerts",
+  "year": 1956,
+  "citationCount": 50533,
+  "authors": [
+    {
+      "name": "Michel Dubois"
+    },
+    {
+      "name": "K. A. Gilles"
+    },
+    {
+      "name": "J. K. Hamilton"
+    },
+    {
+      "name": "P. A. Rebers"
+    },
+    {
+      "name": "F. Smith"
+    }
+  ],
+  "url": "https://openalex.org/W1968834637",
+  "references": [
+    "https://openalex.org/W1998244419",
+    "https://openalex.org/W2074008179",
+    "https://openalex.org/W2038138527",
+    "https://openalex.org/W2004431960",
+    "https://openalex.org/W2080655980",
+    "https://openalex.org/W2329323483",
+    "https://openalex.org/W1985160558",
+    "https://openalex.org/W2058256529",
+    "https://openalex.org/W2014302440",
+    "https://openalex.org/W1998926818",
+    "https://openalex.org/W2395079662",
+    "https://openalex.org/W2148588123",
+    "https://openalex.org/W1983093958",
+    "https://openalex.org/W1512986288",
+    "https://openalex.org/W1999881597",
+    "https://openalex.org/W132873224",
+    "https://openalex.org/W2099139884",
+    "https://openalex.org/W2313403791",
+    "https://openalex.org/W1968004330",
+    "https://openalex.org/W2318192201",
+    "https://openalex.org/W26737565",
+    "https://openalex.org/W2105549055",
+    "https://openalex.org/W2161821099",
+    "https://openalex.org/W1977294825",
+    "https://openalex.org/W1970104803",
+    "https://openalex.org/W2332925975",
+    "https://openalex.org/W2087015715",
+    "https://openalex.org/W2048036627",
+    "https://openalex.org/W2059800873",
+    "https://openalex.org/W2041400666",
+    "https://openalex.org/W2040357427",
+    "https://openalex.org/W1969241203",
+    "https://openalex.org/W3022032037",
+    "https://openalex.org/W1985247710",
+    "https://openalex.org/W2006382396",
+    "https://openalex.org/W2036191024",
+    "https://openalex.org/W1982816498",
+    "https://openalex.org/W105569214",
+    "https://openalex.org/W1562322062"
+  ],
+  "source": "openalex",
+  "paper_id": "b47da1943ad61d5528b01db306b83835",
+  "retrieved_by_query": "transformer attention mechanism"
+}

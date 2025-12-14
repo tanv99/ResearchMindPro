@@ -1,0 +1,59 @@
+{
+  "title": "A fast and elitist multiobjective genetic algorithm: NSGA-II",
+  "abstract": "Multi-objective evolutionary algorithms (MOEAs) that use non-dominated sorting and sharing have been criticized mainly for: (1) their O(MN/sup 3/) computational complexity (where M is the number of objectives and N is the population size); (2) their non-elitism approach; and (3) the need to specify a sharing parameter. In this paper, we suggest a non-dominated sorting-based MOEA, called NSGA-II (Non-dominated Sorting Genetic Algorithm II), which alleviates all of the above three difficulties. Specifically, a fast non-dominated sorting approach with O(MN/sup 2/) computational complexity is presented. Also, a selection operator is presented that creates a mating pool by combining the parent and offspring populations and selecting the best N solutions (with respect to fitness and spread). Simulation results on difficult test problems show that NSGA-II is able, for most problems, to find a much better spread of solutions and better convergence near the true Pareto-optimal front compared to the Pareto-archived evolution strategy and the strength-Pareto evolutionary algorithm - two other elitist MOEAs that pay special attention to creating a diverse Pareto-optimal front. Moreover, we modify the definition of dominance in order to solve constrained multi-objective problems efficiently. Simulation results of the constrained NSGA-II on a number of test problems, including a five-objective, seven-constraint nonlinear problem, are compared with another constrained multi-objective optimizer, and the much better performance of NSGA-II is observed.",
+  "year": 2002,
+  "citationCount": 44965,
+  "authors": [
+    {
+      "name": "Kalyanmoy Deb"
+    },
+    {
+      "name": "Amrit Pratap"
+    },
+    {
+      "name": "Sakshi Agarwal"
+    },
+    {
+      "name": "T. Meyarivan"
+    }
+  ],
+  "url": "https://openalex.org/W2126105956",
+  "references": [
+    "https://openalex.org/W2145479420",
+    "https://openalex.org/W2152551290",
+    "https://openalex.org/W6634239536",
+    "https://openalex.org/W6628249391",
+    "https://openalex.org/W6608886761",
+    "https://openalex.org/W6636658889",
+    "https://openalex.org/W2161055009",
+    "https://openalex.org/W2155019998",
+    "https://openalex.org/W2135864487",
+    "https://openalex.org/W6636219764",
+    "https://openalex.org/W6606151798",
+    "https://openalex.org/W1905847227",
+    "https://openalex.org/W1957430778",
+    "https://openalex.org/W1532399581",
+    "https://openalex.org/W2056605897",
+    "https://openalex.org/W6680838134",
+    "https://openalex.org/W2116661285",
+    "https://openalex.org/W2109880321",
+    "https://openalex.org/W2125899728",
+    "https://openalex.org/W1558919105",
+    "https://openalex.org/W225560312",
+    "https://openalex.org/W2140066605",
+    "https://openalex.org/W1504943474",
+    "https://openalex.org/W1607104331",
+    "https://openalex.org/W1612556207",
+    "https://openalex.org/W2118745618",
+    "https://openalex.org/W2261054240",
+    "https://openalex.org/W1479771599",
+    "https://openalex.org/W1595498733",
+    "https://openalex.org/W1606791384",
+    "https://openalex.org/W1248696213",
+    "https://openalex.org/W1572960541",
+    "https://openalex.org/W146839677"
+  ],
+  "source": "openalex",
+  "paper_id": "c8ccdeffd981aa8c3a661829e371cdf6",
+  "retrieved_by_query": "transformer attention mechanism"
+}

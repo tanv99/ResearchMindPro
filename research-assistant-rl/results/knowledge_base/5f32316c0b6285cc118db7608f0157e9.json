@@ -1,0 +1,59 @@
+{
+  "title": "Accurate Image Super-Resolution Using Very Deep Convolutional Networks",
+  "abstract": "We present a highly accurate single-image superresolution (SR) method. Our method uses a very deep convolutional network inspired by VGG-net used for ImageNet classification [19]. We find increasing our network depth shows a significant improvement in accuracy. Our final model uses 20 weight layers. By cascading small filters many times in a deep network structure, contextual information over large image regions is exploited in an efficient way. With very deep networks, however, convergence speed becomes a critical issue during training. We propose a simple yet effective training procedure. We learn residuals only and use extremely high learning rates (104 times higher than SRCNN [6]) enabled by adjustable gradient clipping. Our proposed method performs better than existing methods in accuracy and visual improvements in our results are easily noticeable.",
+  "year": 2016,
+  "citationCount": 7279,
+  "authors": [
+    {
+      "name": "Jiwon Kim"
+    },
+    {
+      "name": "Jung Kwon Lee"
+    },
+    {
+      "name": "Kyoung Mu Lee"
+    }
+  ],
+  "url": "https://openalex.org/W2242218935",
+  "references": [
+    "https://openalex.org/W1677182931",
+    "https://openalex.org/W2087380704",
+    "https://openalex.org/W6682106220",
+    "https://openalex.org/W2112796928",
+    "https://openalex.org/W2047920195",
+    "https://openalex.org/W2121927366",
+    "https://openalex.org/W6638545294",
+    "https://openalex.org/W1950594372",
+    "https://openalex.org/W6637373629",
+    "https://openalex.org/W2118963448",
+    "https://openalex.org/W2137577104",
+    "https://openalex.org/W6639309558",
+    "https://openalex.org/W6602211262",
+    "https://openalex.org/W2149760002",
+    "https://openalex.org/W2035677848",
+    "https://openalex.org/W2107878631",
+    "https://openalex.org/W2534320940",
+    "https://openalex.org/W6683680428",
+    "https://openalex.org/W6624640001",
+    "https://openalex.org/W2150081556",
+    "https://openalex.org/W2098506229",
+    "https://openalex.org/W1791560514",
+    "https://openalex.org/W6677973867",
+    "https://openalex.org/W2149669120",
+    "https://openalex.org/W2953066166",
+    "https://openalex.org/W1885185971",
+    "https://openalex.org/W1815076433",
+    "https://openalex.org/W2557283755",
+    "https://openalex.org/W1686810756",
+    "https://openalex.org/W1963882359",
+    "https://openalex.org/W2121058967",
+    "https://openalex.org/W4377561911",
+    "https://openalex.org/W54257720",
+    "https://openalex.org/W935139217",
+    "https://openalex.org/W2962835968",
+    "https://openalex.org/W2163935418"
+  ],
+  "source": "openalex",
+  "paper_id": "5f32316c0b6285cc118db7608f0157e9",
+  "retrieved_by_query": "deep learning convolutional networks"
+}

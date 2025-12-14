@@ -1,0 +1,80 @@
+{
+  "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+  "abstract": "Zhangyin Feng, Daya Guo, Duyu Tang, Nan Duan, Xiaocheng Feng, Ming Gong, Linjun Shou, Bing Qin, Ting Liu, Daxin Jiang, Ming Zhou. Findings of the Association for Computational Linguistics: EMNLP 2020. 2020.",
+  "year": 2020,
+  "citationCount": 2045,
+  "authors": [
+    {
+      "name": "Zhangyin Feng"
+    },
+    {
+      "name": "Daya Guo"
+    },
+    {
+      "name": "Duyu Tang"
+    },
+    {
+      "name": "Nan Duan"
+    },
+    {
+      "name": "Xiaocheng Feng"
+    },
+    {
+      "name": "Ming Gong"
+    },
+    {
+      "name": "Linjun Shou"
+    },
+    {
+      "name": "Bing Qin"
+    },
+    {
+      "name": "Ting Liu"
+    },
+    {
+      "name": "Daxin Jiang"
+    },
+    {
+      "name": "Ming Zhou"
+    }
+  ],
+  "url": "https://openalex.org/W3098605233",
+  "references": [
+    "https://openalex.org/W2887364112",
+    "https://openalex.org/W2130942839",
+    "https://openalex.org/W2966715458",
+    "https://openalex.org/W4287824654",
+    "https://openalex.org/W2962965405",
+    "https://openalex.org/W3034999214",
+    "https://openalex.org/W2595715041",
+    "https://openalex.org/W3082274269",
+    "https://openalex.org/W2896457183",
+    "https://openalex.org/W2970476646",
+    "https://openalex.org/W2995333547",
+    "https://openalex.org/W2952638691",
+    "https://openalex.org/W2981851019",
+    "https://openalex.org/W2725049817",
+    "https://openalex.org/W2965373594",
+    "https://openalex.org/W2142112143",
+    "https://openalex.org/W2525778437",
+    "https://openalex.org/W2970608575",
+    "https://openalex.org/W2973529529",
+    "https://openalex.org/W2124807415",
+    "https://openalex.org/W4385245566",
+    "https://openalex.org/W2794601162",
+    "https://openalex.org/W2963403868",
+    "https://openalex.org/W2962739339",
+    "https://openalex.org/W1832693441",
+    "https://openalex.org/W4288089799",
+    "https://openalex.org/W2516621648",
+    "https://openalex.org/W3111372685",
+    "https://openalex.org/W4394638297",
+    "https://openalex.org/W2963355447",
+    "https://openalex.org/W2157331557",
+    "https://openalex.org/W2963341956",
+    "https://openalex.org/W2970597249"
+  ],
+  "source": "openalex",
+  "paper_id": "197b49eeb9967bf423baa08c363aff60",
+  "retrieved_by_query": "transformer attention mechanism"
+}

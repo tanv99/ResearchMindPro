@@ -1,0 +1,384 @@
+{
+  "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+  "abstract": "No abstract available",
+  "year": 2020,
+  "citationCount": 33231,
+  "authors": [
+    {
+      "name": "Pauli Virtanen"
+    },
+    {
+      "name": "Ralf Gommers"
+    },
+    {
+      "name": "Travis E. Oliphant"
+    },
+    {
+      "name": "Matt Haberland"
+    },
+    {
+      "name": "Tyler Reddy"
+    },
+    {
+      "name": "David Cournapeau"
+    },
+    {
+      "name": "Evgeni Burovski"
+    },
+    {
+      "name": "Pearu Peterson"
+    },
+    {
+      "name": "Warren Weckesser"
+    },
+    {
+      "name": "Jonathan Bright"
+    },
+    {
+      "name": "St\u00e9fan J. van der Walt"
+    },
+    {
+      "name": "Matthew Brett"
+    },
+    {
+      "name": "Joshua Wilson"
+    },
+    {
+      "name": "K. Jarrod Millman"
+    },
+    {
+      "name": "Nikolay Mayorov"
+    },
+    {
+      "name": "Andrew R.J. Nelson"
+    },
+    {
+      "name": "Eric Jones"
+    },
+    {
+      "name": "Robert Kern"
+    },
+    {
+      "name": "Eric Larson"
+    },
+    {
+      "name": "CJ Carey"
+    },
+    {
+      "name": "\u0130lhan POLAT"
+    },
+    {
+      "name": "Yu Feng"
+    },
+    {
+      "name": "Eric W. Moore"
+    },
+    {
+      "name": "Jake VanderPlas"
+    },
+    {
+      "name": "Denis Laxalde"
+    },
+    {
+      "name": "Josef Perktold"
+    },
+    {
+      "name": "Robert Cimrman"
+    },
+    {
+      "name": "Ian Henriksen"
+    },
+    {
+      "name": "E. A. Quintero"
+    },
+    {
+      "name": "Charles R. Harris"
+    },
+    {
+      "name": "Anne M. Archibald"
+    },
+    {
+      "name": "Antonio H Ribeiro"
+    },
+    {
+      "name": "Fabian Pedregosa"
+    },
+    {
+      "name": "Paul van Mulbregt"
+    },
+    {
+      "name": "SciPy 1.0 Contributors"
+    },
+    {
+      "name": "Aditya Vijaykumar"
+    },
+    {
+      "name": "Alessandro Pietro Bardelli"
+    },
+    {
+      "name": "Alex Rothberg"
+    },
+    {
+      "name": "Andreas Hilboll"
+    },
+    {
+      "name": "Andreas Kloeckner"
+    },
+    {
+      "name": "Anthony Scopatz"
+    },
+    {
+      "name": "Antony Lee"
+    },
+    {
+      "name": "Ariel Rokem"
+    },
+    {
+      "name": "C. Nathan Woods"
+    },
+    {
+      "name": "Chad Fulton"
+    },
+    {
+      "name": "Charles Masson"
+    },
+    {
+      "name": "Christian H\u00e4ggstr\u00f6m"
+    },
+    {
+      "name": "Clark Fitzgerald"
+    },
+    {
+      "name": "David A. Nicholson"
+    },
+    {
+      "name": "David R. Hagen"
+    },
+    {
+      "name": "Dmitrii V. Pasechnik"
+    },
+    {
+      "name": "Emanuele Olivetti"
+    },
+    {
+      "name": "Eric Martin"
+    },
+    {
+      "name": "Eric Wieser"
+    },
+    {
+      "name": "Fabrice Silva"
+    },
+    {
+      "name": "Felix Lenders"
+    },
+    {
+      "name": "Florian Wilhelm"
+    },
+    {
+      "name": "G. Young"
+    },
+    {
+      "name": "Gavin A. Price"
+    },
+    {
+      "name": "Gert-Ludwig Ingold"
+    },
+    {
+      "name": "Gregory E. Allen"
+    },
+    {
+      "name": "Gregory R. Lee"
+    },
+    {
+      "name": "Herv\u00e9 Audren"
+    },
+    {
+      "name": "Irvin Probst"
+    },
+    {
+      "name": "Jorg P Dietrich"
+    },
+    {
+      "name": "Jacob Silterra"
+    },
+    {
+      "name": "James T. Webber"
+    },
+    {
+      "name": "Janko Slavi\u010d"
+    },
+    {
+      "name": "Joel Nothman"
+    },
+    {
+      "name": "Johannes Buchner"
+    },
+    {
+      "name": "Johannes Kulick"
+    },
+    {
+      "name": "Johannes L. Sch\u00f6nberger"
+    },
+    {
+      "name": "Jos\u00e9 Vin\u00edcius de Miranda Cardoso"
+    },
+    {
+      "name": "Joscha Reimer"
+    },
+    {
+      "name": "Joseph Harrington"
+    },
+    {
+      "name": "Juan Luis Cano Rodr\u00edguez"
+    },
+    {
+      "name": "Juan Nunez-Iglesias"
+    },
+    {
+      "name": "Justin Kuczynski"
+    },
+    {
+      "name": "Kevin Tritz"
+    },
+    {
+      "name": "Martin Thoma"
+    },
+    {
+      "name": "Matthew Newville"
+    },
+    {
+      "name": "Matthias K\u00fcmmerer"
+    },
+    {
+      "name": "Maximilian Bolingbroke"
+    },
+    {
+      "name": "Michael Tartre"
+    },
+    {
+      "name": "Mikhail Pak"
+    },
+    {
+      "name": "Nathaniel J. Smith"
+    },
+    {
+      "name": "Nikolai Nowaczyk"
+    },
+    {
+      "name": "Nikolay Shebanov"
+    },
+    {
+      "name": "Oleksandr Pavlyk"
+    },
+    {
+      "name": "Per A Brodtkorb"
+    },
+    {
+      "name": "Perry Lee"
+    },
+    {
+      "name": "Robert T. McGibbon"
+    },
+    {
+      "name": "Roman Feldbauer"
+    },
+    {
+      "name": "Sam Lewis"
+    },
+    {
+      "name": "Sam Tygier"
+    },
+    {
+      "name": "Scott Sievert"
+    },
+    {
+      "name": "Sebastiano Vigna"
+    },
+    {
+      "name": "Stefan Peterson"
+    },
+    {
+      "name": "Surhud More"
+    },
+    {
+      "name": "Tadeusz Pudlik"
+    }
+  ],
+  "url": "https://openalex.org/W3003257820",
+  "references": [
+    "https://openalex.org/W2146292423",
+    "https://openalex.org/W6675354045",
+    "https://openalex.org/W2015159529",
+    "https://openalex.org/W3208657605",
+    "https://openalex.org/W1749804791",
+    "https://openalex.org/W2273772273",
+    "https://openalex.org/W2765081049",
+    "https://openalex.org/W2939038312",
+    "https://openalex.org/W6949871103",
+    "https://openalex.org/W2612135142",
+    "https://openalex.org/W2035776949",
+    "https://openalex.org/W1988054515",
+    "https://openalex.org/W2005011886",
+    "https://openalex.org/W2104266030",
+    "https://openalex.org/W2044105167",
+    "https://openalex.org/W2091043613",
+    "https://openalex.org/W2065219489",
+    "https://openalex.org/W2181523240",
+    "https://openalex.org/W2217402295",
+    "https://openalex.org/W2063397409",
+    "https://openalex.org/W2417863416",
+    "https://openalex.org/W2616543068",
+    "https://openalex.org/W2971491423",
+    "https://openalex.org/W4240429068",
+    "https://openalex.org/W4388322023",
+    "https://openalex.org/W2793946573",
+    "https://openalex.org/W173148493",
+    "https://openalex.org/W1499852305",
+    "https://openalex.org/W2127391977",
+    "https://openalex.org/W1506690472",
+    "https://openalex.org/W2028837575",
+    "https://openalex.org/W2576057118",
+    "https://openalex.org/W1970009422",
+    "https://openalex.org/W2153504150",
+    "https://openalex.org/W2245493112",
+    "https://openalex.org/W1993335798",
+    "https://openalex.org/W2140798163",
+    "https://openalex.org/W1775163074",
+    "https://openalex.org/W2026926219",
+    "https://openalex.org/W1736770670",
+    "https://openalex.org/W1596877211",
+    "https://openalex.org/W2061615592",
+    "https://openalex.org/W1595159159",
+    "https://openalex.org/W2001082470",
+    "https://openalex.org/W2162870748",
+    "https://openalex.org/W2096045964",
+    "https://openalex.org/W2006650073",
+    "https://openalex.org/W2758392106",
+    "https://openalex.org/W2888532099",
+    "https://openalex.org/W2252795400",
+    "https://openalex.org/W2171074980",
+    "https://openalex.org/W2114013702",
+    "https://openalex.org/W1451881698",
+    "https://openalex.org/W2079777091",
+    "https://openalex.org/W2000359198",
+    "https://openalex.org/W2005126631",
+    "https://openalex.org/W2005411772",
+    "https://openalex.org/W2884670864",
+    "https://openalex.org/W344808587",
+    "https://openalex.org/W2065000345",
+    "https://openalex.org/W1579664581",
+    "https://openalex.org/W2000389939",
+    "https://openalex.org/W147998453",
+    "https://openalex.org/W2075184363",
+    "https://openalex.org/W2063690908",
+    "https://openalex.org/W2886697344",
+    "https://openalex.org/W4211101666",
+    "https://openalex.org/W1768849904",
+    "https://openalex.org/W1987822482",
+    "https://openalex.org/W6632917401"
+  ],
+  "source": "openalex",
+  "paper_id": "ae469f2a0b420bde4166c1492d585015",
+  "retrieved_by_query": "transformer attention mechanism"
+}

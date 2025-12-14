@@ -1,0 +1,16 @@
+{
+  "title": "R: A Language and Environment for Statistical Computing",
+  "abstract": "No abstract available",
+  "year": 2000,
+  "citationCount": 352806,
+  "authors": [
+    {
+      "name": "R Core Team"
+    }
+  ],
+  "url": "https://openalex.org/W2582743722",
+  "references": [],
+  "source": "openalex",
+  "paper_id": "5d759cbd8612a6fe4a582ab3c40f9959",
+  "retrieved_by_query": "transformer attention mechanism"
+}

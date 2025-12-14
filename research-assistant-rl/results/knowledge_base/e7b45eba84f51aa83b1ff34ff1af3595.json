@@ -1,0 +1,36 @@
+{
+  "title": "NIH Image to ImageJ: 25 years of image analysis",
+  "abstract": "No abstract available",
+  "year": 2012,
+  "citationCount": 61228,
+  "authors": [
+    {
+      "name": "Caroline A Schneider"
+    },
+    {
+      "name": "Wayne Rasband"
+    },
+    {
+      "name": "Kevin W. Eliceiri"
+    }
+  ],
+  "url": "https://openalex.org/W2099540110",
+  "references": [
+    "https://openalex.org/W2166771618",
+    "https://openalex.org/W1532532969",
+    "https://openalex.org/W2031502025",
+    "https://openalex.org/W2121469024",
+    "https://openalex.org/W2129047745",
+    "https://openalex.org/W2154592269",
+    "https://openalex.org/W1969293071",
+    "https://openalex.org/W2167279371",
+    "https://openalex.org/W2037947871",
+    "https://openalex.org/W2107554012",
+    "https://openalex.org/W2037586865",
+    "https://openalex.org/W1540070193",
+    "https://openalex.org/W565449262"
+  ],
+  "source": "openalex",
+  "paper_id": "e7b45eba84f51aa83b1ff34ff1af3595",
+  "retrieved_by_query": "transformer attention mechanism"
+}

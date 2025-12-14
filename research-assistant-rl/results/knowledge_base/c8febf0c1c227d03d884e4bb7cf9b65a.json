@@ -1,0 +1,83 @@
+{
+  "title": "ECA-Net: Efficient Channel Attention for Deep Convolutional Neural Networks",
+  "abstract": "Recently, channel attention mechanism has demonstrated to offer great potential in improving the performance of deep convolutional neural networks (CNNs). However, most existing methods dedicate to developing more sophisticated attention modules for achieving better performance, which inevitably increase model complexity. To overcome the paradox of performance and complexity trade-off, this paper proposes an Efficient Channel Attention (ECA) module, which only involves a handful of parameters while bringing clear performance gain. By dissecting the channel attention module in SENet, we empirically show avoiding dimensionality reduction is important for learning channel attention, and appropriate cross-channel interaction can preserve performance while significantly decreasing model complexity. Therefore, we propose a local cross-channel interaction strategy without dimensionality reduction, which can be efficiently implemented via 1D convolution. Furthermore, we develop a method to adaptively select kernel size of 1D convolution, determining coverage of local cross-channel interaction. The proposed ECA module is both efficient and effective, e.g., the parameters and computations of our modules against backbone of ResNet50 are 80 vs. 24.37M and 4.7e-4 GFlops vs. 3.86 GFlops, respectively, and the performance boost is more than 2% in terms of Top-1 accuracy. We extensively evaluate our ECA module on image classification, object detection and instance segmentation with backbones of ResNets and MobileNetV2. The experimental results show our module is more efficient while performing favorably against its counterparts.",
+  "year": 2020,
+  "citationCount": 6942,
+  "authors": [
+    {
+      "name": "Qilong Wang"
+    },
+    {
+      "name": "Banggu Wu"
+    },
+    {
+      "name": "Pengfei Zhu"
+    },
+    {
+      "name": "Peihua Li"
+    },
+    {
+      "name": "Wangmeng Zuo"
+    },
+    {
+      "name": "Qinghua Hu"
+    }
+  ],
+  "url": "https://openalex.org/W3034552520",
+  "references": [
+    "https://openalex.org/W6753412334",
+    "https://openalex.org/W2963091558",
+    "https://openalex.org/W2183341477",
+    "https://openalex.org/W2097117768",
+    "https://openalex.org/W2963125010",
+    "https://openalex.org/W2778955544",
+    "https://openalex.org/W2962890454",
+    "https://openalex.org/W2549139847",
+    "https://openalex.org/W2963150697",
+    "https://openalex.org/W2194775991",
+    "https://openalex.org/W6698183232",
+    "https://openalex.org/W6678174250",
+    "https://openalex.org/W2752782242",
+    "https://openalex.org/W2963446712",
+    "https://openalex.org/W2400429454",
+    "https://openalex.org/W6684191040",
+    "https://openalex.org/W2601789736",
+    "https://openalex.org/W2796438033",
+    "https://openalex.org/W2888493720",
+    "https://openalex.org/W2108598243",
+    "https://openalex.org/W6637373629",
+    "https://openalex.org/W2531409750",
+    "https://openalex.org/W6755120062",
+    "https://openalex.org/W2955058313",
+    "https://openalex.org/W2982220924",
+    "https://openalex.org/W2964231884",
+    "https://openalex.org/W2981413347",
+    "https://openalex.org/W2551829638",
+    "https://openalex.org/W2963351448",
+    "https://openalex.org/W2565639579",
+    "https://openalex.org/W6753767121",
+    "https://openalex.org/W6639102338",
+    "https://openalex.org/W639708223",
+    "https://openalex.org/W1665214252",
+    "https://openalex.org/W2937843571",
+    "https://openalex.org/W2898732869",
+    "https://openalex.org/W4288325606",
+    "https://openalex.org/W2962835968",
+    "https://openalex.org/W1686810756",
+    "https://openalex.org/W2963504571",
+    "https://openalex.org/W2963163009",
+    "https://openalex.org/W2163605009",
+    "https://openalex.org/W2883780447",
+    "https://openalex.org/W2907563992",
+    "https://openalex.org/W2891179104",
+    "https://openalex.org/W2963984455",
+    "https://openalex.org/W2884585870",
+    "https://openalex.org/W2964091144",
+    "https://openalex.org/W1861492603",
+    "https://openalex.org/W2302255633",
+    "https://openalex.org/W2950141105"
+  ],
+  "source": "openalex",
+  "paper_id": "c8febf0c1c227d03d884e4bb7cf9b65a",
+  "retrieved_by_query": "deep learning convolutional networks"
+}

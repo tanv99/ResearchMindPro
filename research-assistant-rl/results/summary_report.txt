@@ -1,0 +1,45 @@
+
+======================================================================
+ADAPTIVE RESEARCH ASSISTANT - EXPERIMENTAL RESULTS
+======================================================================
+
+Experiment Date: 2025-12-11T19:50:55.623584
+Total Duration: 298.7 seconds
+Episodes: 30 baseline, 200 RL
+
+BASELINE PERFORMANCE (Random Strategy)
+======================================================================
+Average Reward:     7.531
+Average Relevance:  0.854
+Std Deviation:      2.206
+
+RL AGENT PERFORMANCE (Final 50 Episodes)
+======================================================================
+Average Reward:     9.524  (+26.5%)
+Average Relevance:  0.922  (+8.0%)
+Std Deviation:      2.385
+Synthesis Improvement: +0.144
+
+KEY FINDINGS
+======================================================================
+[+] RL agent achieved 26.5% improvement in total reward
+[+] Paper relevance improved by 8.0%
+[+] Synthesis quality improved by 0.144 over training
+[+] Agent learned topic-specific source preferences
+[+] Learning converged after approximately 100-150 episodes
+
+LEARNED SOURCE PREFERENCES BY TOPIC
+======================================================================
+nlp                  -> arxiv                (S2: 9.38, arXiv: 10.59)
+machine_learning     -> arxiv                (S2: 7.40, arXiv: 10.65)
+computer_vision      -> arxiv                (S2: 4.54, arXiv: 10.65)
+systems              -> arxiv                (S2: 8.61, arXiv: 10.48)
+theory               -> arxiv                (S2: 6.17, arXiv: 10.29)
+
+TASK ALLOCATION DISTRIBUTION
+======================================================================
+q_agent                      39 (19.5%)
+ucb_agent                    52 (26.0%)
+both                        109 (54.5%)
+
+======================================================================

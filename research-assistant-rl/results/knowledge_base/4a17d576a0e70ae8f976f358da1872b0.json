@@ -1,0 +1,22 @@
+{
+  "title": "Unsupervised Representation Learning with Deep Convolutional Generative\\n Adversarial Networks",
+  "abstract": "In recent years, supervised learning with convolutional networks (CNNs) has\\nseen huge adoption in computer vision applications. Comparatively, unsupervised\\nlearning with CNNs has received less attention. In this work we hope to help\\nbridge the gap between the success of CNNs for supervised learning and\\nunsupervised learning. We introduce a class of CNNs called deep convolutional\\ngenerative adversarial networks (DCGANs), that have certain architectural\\nconstraints, and demonstrate that they are a strong candidate for unsupervised\\nlearning. Training on various image datasets, we show convincing evidence that\\nour deep convolutional adversarial pair learns a hierarchy of representations\\nfrom object parts to scenes in both the generator and discriminator.\\nAdditionally, we use the learned features for novel tasks - demonstrating their\\napplicability as general image representations.\\n",
+  "year": 2015,
+  "citationCount": 7618,
+  "authors": [
+    {
+      "name": "Alec Radford"
+    },
+    {
+      "name": "Luke Metz"
+    },
+    {
+      "name": "Soumith Chintala"
+    }
+  ],
+  "url": "https://openalex.org/W2963684088",
+  "references": [],
+  "source": "openalex",
+  "paper_id": "4a17d576a0e70ae8f976f358da1872b0",
+  "retrieved_by_query": "deep learning convolutional networks"
+}

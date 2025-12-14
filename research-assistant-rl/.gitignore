@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+.env
+# results/*.json
+# results/*.png
+# results/*.txt
+results/cache/
+# results/knowledge_base/
+.DS_Store
+venv/
+.streamlit/secrets.toml

@@ -1,0 +1,58 @@
+{
+  "title": "The CLUSTAL_X windows interface: flexible strategies for multiple sequence alignment aided by quality analysis tools",
+  "abstract": "CLUSTAL X is a new windows interface for the widely-used progressive multiple sequence alignment program CLUSTAL W. The new system is easy to use, providing an integrated system for performing multiple sequence and profile alignments and analysing the results. CLUSTAL X displays the sequence alignment in a window on the screen. A versatile sequence colouring scheme allows the user to highlight conserved features in the alignment. Pull-down menus provide all the options required for traditional multiple sequence and profile alignment. New features include: the ability to cut-and-paste sequences to change the order of the alignment, selection of a subset of the sequences to be realigned, and selection of a sub-range of the alignment to be realigned and inserted back into the original alignment. Alignment quality analysis can be performed and low-scoring segments or exceptional residues can be highlighted. Quality analysis and realignment of selected residue ranges provide the user with a powerful tool to improve and refine difficult alignments and to trap errors in input sequences. CLUSTAL X has been compiled on SUN Solaris, IRIX5.3 on Silicon Graphics, Digital UNIX on DECstations, Microsoft Windows (32 bit) for PCs, Linux ELF for x86 PCs, and Macintosh PowerMac.",
+  "year": 1997,
+  "citationCount": 38996,
+  "authors": [
+    {
+      "name": "Julie Thompson"
+    },
+    {
+      "name": "Toby J. Gibson"
+    },
+    {
+      "name": "Fr\u00e9d\u00e9ric Plewniak"
+    },
+    {
+      "name": "Fran\u00e7ois Jeanmougin"
+    },
+    {
+      "name": "Desmond G. Higgins"
+    }
+  ],
+  "url": "https://openalex.org/W2097382368",
+  "references": [
+    "https://openalex.org/W6608991135",
+    "https://openalex.org/W6637718989",
+    "https://openalex.org/W2101418959",
+    "https://openalex.org/W1978667203",
+    "https://openalex.org/W2105484013",
+    "https://openalex.org/W2105516199",
+    "https://openalex.org/W2109905685",
+    "https://openalex.org/W2132109794",
+    "https://openalex.org/W2149160071",
+    "https://openalex.org/W2113852734",
+    "https://openalex.org/W2149208773",
+    "https://openalex.org/W2094004308",
+    "https://openalex.org/W1969153299",
+    "https://openalex.org/W1525759724",
+    "https://openalex.org/W1987328021",
+    "https://openalex.org/W2111222383",
+    "https://openalex.org/W2095542051",
+    "https://openalex.org/W2066562848",
+    "https://openalex.org/W2106882534",
+    "https://openalex.org/W1997451177",
+    "https://openalex.org/W1982996449",
+    "https://openalex.org/W2102941368",
+    "https://openalex.org/W2094031081",
+    "https://openalex.org/W1970999032",
+    "https://openalex.org/W2129898029",
+    "https://openalex.org/W1990554768",
+    "https://openalex.org/W2057368087",
+    "https://openalex.org/W2099254366",
+    "https://openalex.org/W1975001431"
+  ],
+  "source": "openalex",
+  "paper_id": "9b118c601fe16749985f45930c81a95f",
+  "retrieved_by_query": "transformer attention mechanism"
+}

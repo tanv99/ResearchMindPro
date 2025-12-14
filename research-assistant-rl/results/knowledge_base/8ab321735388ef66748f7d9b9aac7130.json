@@ -1,0 +1,74 @@
+{
+  "title": "UCSF Chimera\u2014A visualization system for exploratory research and analysis",
+  "abstract": "Abstract The design, implementation, and capabilities of an extensible visualization system, UCSF Chimera, are discussed. Chimera is segmented into a core that provides basic services and visualization, and extensions that provide most higher level functionality. This architecture ensures that the extension mechanism satisfies the demands of outside developers who wish to incorporate new features. Two unusual extensions are presented: Multiscale, which adds the ability to visualize large\u2010scale molecular assemblies such as viral coats, and Collaboratory, which allows researchers to share a Chimera session interactively despite being at separate locales. Other extensions include Multalign Viewer, for showing multiple sequence alignments and associated structures; ViewDock, for screening docked ligand orientations; Movie, for replaying molecular dynamics trajectories; and Volume Viewer, for display and analysis of volumetric data. A discussion of the usage of Chimera in real\u2010world situations is given, along with anticipated future directions. Chimera includes full user documentation, is free to academic and nonprofit users, and is available for Microsoft Windows, Linux, Apple Mac OS X, SGI IRIX, and HP Tru64 Unix from http://www.cgl.ucsf.edu/chimera/ . \u00a9 2004 Wiley Periodicals, Inc. J Comput Chem 25: 1605\u20131612, 2004",
+  "year": 2004,
+  "citationCount": 45962,
+  "authors": [
+    {
+      "name": "Eric F. Pettersen"
+    },
+    {
+      "name": "Thomas D. Goddard"
+    },
+    {
+      "name": "Conrad C. Huang"
+    },
+    {
+      "name": "Gregory S. Couch"
+    },
+    {
+      "name": "Daniel M. Greenblatt"
+    },
+    {
+      "name": "Elaine C. Meng"
+    },
+    {
+      "name": "Thomas E. Ferrin"
+    }
+  ],
+  "url": "https://openalex.org/W2132629607",
+  "references": [
+    "https://openalex.org/W2032402250",
+    "https://openalex.org/W2082040139",
+    "https://openalex.org/W2130479394",
+    "https://openalex.org/W2064809160",
+    "https://openalex.org/W2044082153",
+    "https://openalex.org/W2022820623",
+    "https://openalex.org/W2113403117",
+    "https://openalex.org/W4293003482",
+    "https://openalex.org/W2101830823",
+    "https://openalex.org/W2095807033",
+    "https://openalex.org/W2095724872",
+    "https://openalex.org/W2155480785",
+    "https://openalex.org/W2085277871",
+    "https://openalex.org/W2127648442",
+    "https://openalex.org/W2033783923",
+    "https://openalex.org/W1592950931",
+    "https://openalex.org/W1985953075",
+    "https://openalex.org/W2048316372",
+    "https://openalex.org/W2103815459",
+    "https://openalex.org/W2001641653",
+    "https://openalex.org/W1995017064",
+    "https://openalex.org/W2009155849",
+    "https://openalex.org/W2048982317",
+    "https://openalex.org/W2021534482",
+    "https://openalex.org/W2106315897",
+    "https://openalex.org/W2000338094",
+    "https://openalex.org/W1987822482",
+    "https://openalex.org/W2117492729",
+    "https://openalex.org/W2171962405",
+    "https://openalex.org/W4240921265",
+    "https://openalex.org/W2098640082",
+    "https://openalex.org/W1992532276",
+    "https://openalex.org/W1892292145",
+    "https://openalex.org/W2056036737",
+    "https://openalex.org/W1550517035",
+    "https://openalex.org/W1966323820",
+    "https://openalex.org/W2089729405",
+    "https://openalex.org/W2131736388",
+    "https://openalex.org/W1664954303"
+  ],
+  "source": "openalex",
+  "paper_id": "8ab321735388ef66748f7d9b9aac7130",
+  "retrieved_by_query": "transformer attention mechanism"
+}

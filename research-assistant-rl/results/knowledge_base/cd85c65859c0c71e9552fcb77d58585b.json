@@ -1,0 +1,53 @@
+{
+  "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+  "abstract": "In recent years, supervised learning with convolutional networks (CNNs) has seen huge adoption in computer vision applications. Comparatively, unsupervised learning with CNNs has received less attention. In this work we hope to help bridge the gap between the success of CNNs for supervised learning and unsupervised learning. We introduce a class of CNNs called deep convolutional generative adversarial networks (DCGANs), that have certain architectural constraints, and demonstrate that they are a strong candidate for unsupervised learning. Training on various image datasets, we show convincing evidence that our deep convolutional adversarial pair learns a hierarchy of representations from object parts to scenes in both the generator and discriminator. Additionally, we use the learned features for novel tasks - demonstrating their applicability as general image representations.",
+  "year": 2015,
+  "citationCount": 6979,
+  "authors": [
+    {
+      "name": "Alec Radford"
+    },
+    {
+      "name": "Luke Metz"
+    },
+    {
+      "name": "Soumith Chintala"
+    }
+  ],
+  "url": "https://openalex.org/W2173520492",
+  "references": [
+    "https://openalex.org/W2127006916",
+    "https://openalex.org/W1522301498",
+    "https://openalex.org/W2279468364",
+    "https://openalex.org/W967544008",
+    "https://openalex.org/W1921523184",
+    "https://openalex.org/W2116013899",
+    "https://openalex.org/W2161381512",
+    "https://openalex.org/W2952229419",
+    "https://openalex.org/W2123045220",
+    "https://openalex.org/W1811750039",
+    "https://openalex.org/W2950133940",
+    "https://openalex.org/W2129069237",
+    "https://openalex.org/W2099471712",
+    "https://openalex.org/W2951004968",
+    "https://openalex.org/W630242894",
+    "https://openalex.org/W2950629931",
+    "https://openalex.org/W180242331",
+    "https://openalex.org/W2950794831",
+    "https://openalex.org/W2097074225",
+    "https://openalex.org/W187321743",
+    "https://openalex.org/W2108598243",
+    "https://openalex.org/W2145094598",
+    "https://openalex.org/W2099057450",
+    "https://openalex.org/W1849277567",
+    "https://openalex.org/W2951523806",
+    "https://openalex.org/W1850742715",
+    "https://openalex.org/W2171011251",
+    "https://openalex.org/W2130325614",
+    "https://openalex.org/W2949117887",
+    "https://openalex.org/W2097998348"
+  ],
+  "source": "openalex",
+  "paper_id": "cd85c65859c0c71e9552fcb77d58585b",
+  "retrieved_by_query": "deep learning convolutional networks"
+}

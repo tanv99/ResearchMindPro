@@ -1,0 +1,41 @@
+{
+  "title": "COPPER ENZYMES IN ISOLATED CHLOROPLASTS. POLYPHENOLOXIDASE IN <i>BETA VULGARIS</i>",
+  "abstract": "The chloroplast, as the seat of chlorophyll pigments in plants, occupies a unique position in the economy of the green cell.In recent years there has been a renewed interest in the reactions and properties of chloroplasts as a result of the work of HIL (11, 12) and HIL and SCARISBRICK (13,14) who demonstrated that the reaction characteristic of photosynthesis in green plants, the evolution of oxygen, occurs in appreciable quantities in isolated chloroplasts under the influence of light and in the presence of suitable oxidants (2, 7, 8, 26).In the course of an investigation of oxygen evolution by isolated chloro- plasts it was deemed important to explore their enzymatic composition.Of special interest were considered enzymes capable of participating in oxida- tion-reduction reactions, and more particularly, those localized principally, if not entirely, in the chloroplasts.This paper presents evidence that a copper enzyme, polyphenoloxidase (otherwise known as tyrosinase or cate- cholase), is localized in the chloroplasts of spinach beet (chard), Beta vu.'- garis.Methods GROWING OF PLANTS.-Seeds of spinach beet were germinated and grown in sand in flower pots in a greenhouse, heated to prevent the tem- perature from falling below freezing in winter.The pots were watered with a nutrient solution of the following composition (made with local tap water): KNO3-0.01M;Ca(NO3)2-0.002M;NH4H2PO4-0.002M;MgSO4 -0.002M; and A4, a combination of the micronutrients Mn, B, Ca, Zn",
+  "year": 1949,
+  "citationCount": 21574,
+  "authors": [
+    {
+      "name": "Daniel I. Arnon"
+    }
+  ],
+  "url": "https://openalex.org/W1974907033",
+  "references": [
+    "https://openalex.org/W2050698667",
+    "https://openalex.org/W2345669216",
+    "https://openalex.org/W4238462496",
+    "https://openalex.org/W2216387761",
+    "https://openalex.org/W2021874967",
+    "https://openalex.org/W2001194490",
+    "https://openalex.org/W2081467208",
+    "https://openalex.org/W2406537012",
+    "https://openalex.org/W1967087544",
+    "https://openalex.org/W2171907576",
+    "https://openalex.org/W2057639917",
+    "https://openalex.org/W2035521934",
+    "https://openalex.org/W187218625",
+    "https://openalex.org/W565972516",
+    "https://openalex.org/W2527039934",
+    "https://openalex.org/W2163005329",
+    "https://openalex.org/W95600781",
+    "https://openalex.org/W143680312",
+    "https://openalex.org/W4241567393",
+    "https://openalex.org/W2064307244",
+    "https://openalex.org/W2125041345",
+    "https://openalex.org/W2067840563",
+    "https://openalex.org/W2027499453",
+    "https://openalex.org/W2064443279"
+  ],
+  "source": "openalex",
+  "paper_id": "392f71b78b2c8989a0991f6da9fcfe1a",
+  "retrieved_by_query": "transformer attention mechanism"
+}

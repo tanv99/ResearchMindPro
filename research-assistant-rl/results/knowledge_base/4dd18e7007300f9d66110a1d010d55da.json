@@ -1,0 +1,368 @@
+{
+  "title": "Quantum supremacy using a programmable superconducting processor",
+  "abstract": "No abstract available",
+  "year": 2019,
+  "citationCount": 6340,
+  "authors": [
+    {
+      "name": "Frank Arute"
+    },
+    {
+      "name": "Kunal Arya"
+    },
+    {
+      "name": "Ryan Babbush"
+    },
+    {
+      "name": "Dave Bacon"
+    },
+    {
+      "name": "Joseph C. Bardin"
+    },
+    {
+      "name": "Rami Barends"
+    },
+    {
+      "name": "Rupak Biswas"
+    },
+    {
+      "name": "Sergio Boixo"
+    },
+    {
+      "name": "Fernando G. S. L. Brandao"
+    },
+    {
+      "name": "David A. Buell"
+    },
+    {
+      "name": "Brian Burkett"
+    },
+    {
+      "name": "Yu Chen"
+    },
+    {
+      "name": "Zijun Chen"
+    },
+    {
+      "name": "Ben Chiaro"
+    },
+    {
+      "name": "Roberto Collins"
+    },
+    {
+      "name": "William Courtney"
+    },
+    {
+      "name": "Andrew Dunsworth"
+    },
+    {
+      "name": "Edward Farhi"
+    },
+    {
+      "name": "Brooks Foxen"
+    },
+    {
+      "name": "Austin Fowler"
+    },
+    {
+      "name": "Craig Gidney"
+    },
+    {
+      "name": "Marissa Giustina"
+    },
+    {
+      "name": "Rob Graff"
+    },
+    {
+      "name": "Keith Guerin"
+    },
+    {
+      "name": "Steve Habegger"
+    },
+    {
+      "name": "Matthew P. Harrigan"
+    },
+    {
+      "name": "Michael J. Hartmann"
+    },
+    {
+      "name": "Alan Ho"
+    },
+    {
+      "name": "Markus Hoffmann"
+    },
+    {
+      "name": "Trent Huang"
+    },
+    {
+      "name": "Travis S. Humble"
+    },
+    {
+      "name": "Sergei V. Isakov"
+    },
+    {
+      "name": "Evan Jeffrey"
+    },
+    {
+      "name": "Zhang Jiang"
+    },
+    {
+      "name": "Dvir Kafri"
+    },
+    {
+      "name": "Kostyantyn Kechedzhi"
+    },
+    {
+      "name": "Juli\u00e1n Kelly"
+    },
+    {
+      "name": "Paul V. Klimov"
+    },
+    {
+      "name": "Sergey Knysh"
+    },
+    {
+      "name": "Alexander Korotkov"
+    },
+    {
+      "name": "Fedor Kostritsa"
+    },
+    {
+      "name": "David Landhuis"
+    },
+    {
+      "name": "Mike Lindmark"
+    },
+    {
+      "name": "Erik Lucero"
+    },
+    {
+      "name": "Dmitry Lyakh"
+    },
+    {
+      "name": "Salvatore Mandra"
+    },
+    {
+      "name": "Jarrod R. McClean"
+    },
+    {
+      "name": "Matthew McEwen"
+    },
+    {
+      "name": "Anthony Megrant"
+    },
+    {
+      "name": "Xiao Mi"
+    },
+    {
+      "name": "Kristel Michielsen"
+    },
+    {
+      "name": "Masoud Mohseni"
+    },
+    {
+      "name": "Josh Mutus"
+    },
+    {
+      "name": "Ofer Naaman"
+    },
+    {
+      "name": "Matthew Neeley"
+    },
+    {
+      "name": "Charles Neill"
+    },
+    {
+      "name": "Murphy Yuezhen Niu"
+    },
+    {
+      "name": "Eric Ostby"
+    },
+    {
+      "name": "Andre Petukhov"
+    },
+    {
+      "name": "John C. Platt"
+    },
+    {
+      "name": "Chris Quintana"
+    },
+    {
+      "name": "Eleanor G. Rieffel"
+    },
+    {
+      "name": "Pedram Roushan"
+    },
+    {
+      "name": "Nicholas C. Rubin"
+    },
+    {
+      "name": "Daniel Sank"
+    },
+    {
+      "name": "Kevin J. Satzinger"
+    },
+    {
+      "name": "Vadim Smelyanskiy"
+    },
+    {
+      "name": "Kevin J. Sung"
+    },
+    {
+      "name": "Matthew D. Trevithick"
+    },
+    {
+      "name": "Amit Vainsencher"
+    },
+    {
+      "name": "Benjamin Villalonga"
+    },
+    {
+      "name": "Theodore White"
+    },
+    {
+      "name": "Z. Jamie. Yao"
+    },
+    {
+      "name": "Ping Yeh"
+    },
+    {
+      "name": "Adam Zalcman"
+    },
+    {
+      "name": "Hartmut Neven"
+    },
+    {
+      "name": "John M. Martinis"
+    },
+    {
+      "name": "Frank Arute"
+    },
+    {
+      "name": "Kunal Arya"
+    },
+    {
+      "name": "Ryan Babbush"
+    },
+    {
+      "name": "Dave Bacon"
+    },
+    {
+      "name": "Joseph C. Bardin"
+    },
+    {
+      "name": "Rami Barends"
+    },
+    {
+      "name": "Rupak Biswas"
+    },
+    {
+      "name": "Sergio Boixo"
+    },
+    {
+      "name": "Fernando G. S. L. Brandao"
+    },
+    {
+      "name": "David A. Buell"
+    },
+    {
+      "name": "Brian Burkett"
+    },
+    {
+      "name": "Yu Chen"
+    },
+    {
+      "name": "Zijun Chen"
+    },
+    {
+      "name": "Ben Chiaro"
+    },
+    {
+      "name": "Roberto Collins"
+    },
+    {
+      "name": "William Courtney"
+    },
+    {
+      "name": "Andrew Dunsworth"
+    },
+    {
+      "name": "Edward Farhi"
+    },
+    {
+      "name": "Brooks Foxen"
+    },
+    {
+      "name": "Austin Fowler"
+    },
+    {
+      "name": "Craig Gidney"
+    },
+    {
+      "name": "Marissa Giustina"
+    },
+    {
+      "name": "Rob Graff"
+    }
+  ],
+  "url": "https://openalex.org/W2982169647",
+  "references": [
+    "https://openalex.org/W2179731956",
+    "https://openalex.org/W2038356993",
+    "https://openalex.org/W2023727353",
+    "https://openalex.org/W2020018917",
+    "https://openalex.org/W6655024077",
+    "https://openalex.org/W2068163719",
+    "https://openalex.org/W1963734567",
+    "https://openalex.org/W1988808284",
+    "https://openalex.org/W2488179145",
+    "https://openalex.org/W1993292204",
+    "https://openalex.org/W1590419653",
+    "https://openalex.org/W2482126025",
+    "https://openalex.org/W2897579646",
+    "https://openalex.org/W2949719769",
+    "https://openalex.org/W6947939560",
+    "https://openalex.org/W2758259983",
+    "https://openalex.org/W2781738013",
+    "https://openalex.org/W2883409796",
+    "https://openalex.org/W2037354050",
+    "https://openalex.org/W2794444783",
+    "https://openalex.org/W2896712926",
+    "https://openalex.org/W2604467189",
+    "https://openalex.org/W2052891002",
+    "https://openalex.org/W2161685427",
+    "https://openalex.org/W3105543591",
+    "https://openalex.org/W2168676717",
+    "https://openalex.org/W2030867075",
+    "https://openalex.org/W1968850365",
+    "https://openalex.org/W2092458348",
+    "https://openalex.org/W2502126115",
+    "https://openalex.org/W2530247960",
+    "https://openalex.org/W2016321815",
+    "https://openalex.org/W2795017070",
+    "https://openalex.org/W2160661582",
+    "https://openalex.org/W1530691225",
+    "https://openalex.org/W2211717363",
+    "https://openalex.org/W2889557380",
+    "https://openalex.org/W2463723514",
+    "https://openalex.org/W2170620327",
+    "https://openalex.org/W6685320397",
+    "https://openalex.org/W1532834996",
+    "https://openalex.org/W1965628368",
+    "https://openalex.org/W2800906530",
+    "https://openalex.org/W2943659715",
+    "https://openalex.org/W3099335517",
+    "https://openalex.org/W2766460815",
+    "https://openalex.org/W2789231139",
+    "https://openalex.org/W6748668121",
+    "https://openalex.org/W2908556476",
+    "https://openalex.org/W1999706070",
+    "https://openalex.org/W2066500891",
+    "https://openalex.org/W2593019179",
+    "https://openalex.org/W2002372750",
+    "https://openalex.org/W1993688167"
+  ],
+  "source": "openalex",
+  "paper_id": "4dd18e7007300f9d66110a1d010d55da",
+  "retrieved_by_query": "deep learning convolutional networks"
+}

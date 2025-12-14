@@ -1,0 +1,12 @@
+﻿requests
+numpy
+matplotlib
+arxiv
+pandas
+scipy
+pinecone-client
+sentence-transformers
+streamlit
+anthropic
+networkx
+plotly

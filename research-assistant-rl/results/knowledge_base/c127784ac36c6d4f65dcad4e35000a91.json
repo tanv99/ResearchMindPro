@@ -1,0 +1,52 @@
+{
+  "title": "Are Transformers Effective for Time Series Forecasting?",
+  "abstract": "Recently, there has been a surge of Transformer-based solutions for the long-term time series forecasting (LTSF) task. Despite the growing performance over the past few years, we question the validity of this line of research in this work. Specifically, Transformers is arguably the most successful solution to extract the semantic correlations among the elements in a long sequence. However, in time series modeling, we are to extract the temporal relations in an ordered set of continuous points. While employing positional encoding and using tokens to embed sub-series in Transformers facilitate preserving some ordering information, the nature of the permutation-invariant self-attention mechanism inevitably results in temporal information loss. To validate our claim, we introduce a set of embarrassingly simple one-layer linear models named LTSF-Linear for comparison. Experimental results on nine real-life datasets show that LTSF-Linear surprisingly outperforms existing sophisticated Transformer-based LTSF models in all cases, and often by a large margin. Moreover, we conduct comprehensive empirical studies to explore the impacts of various design elements of LTSF models on their temporal relation extraction capability. We hope this surprising finding opens up new research directions for the LTSF task. We also advocate revisiting the validity of Transformer-based solutions for other time series analysis tasks (e.g., anomaly detection) in the future.",
+  "year": 2023,
+  "citationCount": 1877,
+  "authors": [
+    {
+      "name": "Ailing Zeng"
+    },
+    {
+      "name": "Muxi Chen"
+    },
+    {
+      "name": "Lei Zhang"
+    },
+    {
+      "name": "Qiang Xu"
+    }
+  ],
+  "url": "https://openalex.org/W4382203079",
+  "references": [
+    "https://openalex.org/W6642591857",
+    "https://openalex.org/W2127334389",
+    "https://openalex.org/W1536447791",
+    "https://openalex.org/W2892009249",
+    "https://openalex.org/W1678356000",
+    "https://openalex.org/W6822349517",
+    "https://openalex.org/W2954731415",
+    "https://openalex.org/W3171665133",
+    "https://openalex.org/W6889955440",
+    "https://openalex.org/W3138516171",
+    "https://openalex.org/W2607045400",
+    "https://openalex.org/W6742924651",
+    "https://openalex.org/W3111507638",
+    "https://openalex.org/W4225494949",
+    "https://openalex.org/W4385245566",
+    "https://openalex.org/W2896457183",
+    "https://openalex.org/W2230528047",
+    "https://openalex.org/W2133564696",
+    "https://openalex.org/W4385763767",
+    "https://openalex.org/W1969852690",
+    "https://openalex.org/W3177318507",
+    "https://openalex.org/W3212890323",
+    "https://openalex.org/W4302438404",
+    "https://openalex.org/W2792764867",
+    "https://openalex.org/W4225301559",
+    "https://openalex.org/W2604847698"
+  ],
+  "source": "openalex",
+  "paper_id": "c127784ac36c6d4f65dcad4e35000a91",
+  "retrieved_by_query": "transformer attention mechanism"
+}
