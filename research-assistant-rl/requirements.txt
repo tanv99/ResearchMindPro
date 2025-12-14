@@ -10,3 +10,4 @@ streamlit
 anthropic
 networkx
 plotly
+python-dotenv
